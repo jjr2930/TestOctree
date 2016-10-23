@@ -1,0 +1,6 @@
+C:\Users\ME\Documents\TestServer\TestServer\bin\Debug\TestServer.exe.config
+C:\Users\ME\Documents\TestServer\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+C:\Users\ME\Documents\TestServer\TestServer\bin\Debug\TestServer.exe
+C:\Users\ME\Documents\TestServer\TestServer\bin\Debug\TestServer.pdb
+C:\Users\ME\Documents\TestServer\TestServer\obj\Debug\TestServer.exe
+C:\Users\ME\Documents\TestServer\TestServer\obj\Debug\TestServer.pdb
